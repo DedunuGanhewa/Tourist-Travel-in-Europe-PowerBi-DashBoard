@@ -5,4 +5,4 @@ Welcome to the interactive dashboard on *tourist travel patterns across Europe*.
 ## Data Set Used
 -<a href="https://github.com/DedunuGanhewa/Tourist-Travel-in-Europe-PowerBi-DashBoard/blob/main/Tourist_Travel_Europe.csv">DataSet</a>
 ## Dash Board
--<a href="https://github.com/DedunuGanhewa/Tourist-Travel-in-Europe-PowerBi-DashBoard/blob/main/Tourist_Travel_Europe.csv">DashBoard</a>
+-<a href="https://github.com/DedunuGanhewa/Tourist-Travel-in-Europe-PowerBi-DashBoard/blob/main/DB.png">DashBoard</a>
